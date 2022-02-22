@@ -1,3 +1,7 @@
+# Alumni Sakura Coming Soon (SolidJS)
+
+Alumni Sakura website soon will be released. Currently, it is still being developed.
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
@@ -28,7 +32,3 @@ It correctly bundles Solid in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
-
-## Deployment
-
-You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
